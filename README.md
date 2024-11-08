@@ -18,3 +18,17 @@ The machine learning model estimates the rental price using the above features, 
 - **`best_model.pkl`**: This is the trained machine learning model used for predicting rental prices.
 - **`Monthly_house_rental_prices_in_Sri_Lanka.csv`**: The dataset used to train the model, containing historical house rental data for different districts.
 - **`requirements.txt`**: A list of dependencies required to run the application.
+
+## 👥 Contributors
+
+This project was developed with the support and collaboration of:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/janakanupehewage">
+        <img src="https://github.com/janakanupehewage.png" width="100px;" alt="Janaka NUpehewage"/>
+        <br />
+        <sub><b>Janaka Nupehewage</b></sub>
+      </a>
+    </td>
