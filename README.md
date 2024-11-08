@@ -19,9 +19,9 @@ This application predicts monthly rental prices of houses in various districts a
 
 The machine learning model estimates the rental price using the above features, providing an accurate and data-driven prediction.
 
-🚀 How It Works
-Data Loading and Model Preparation:
+## 🚀 How It Works
 
+Data Loading and Model Preparation:
 The pre-trained model, stored as best_model.pkl, is loaded using joblib.
 
 User Input:
@@ -41,7 +41,8 @@ Uses the pre-trained model to predict the monthly rental price based on input de
 Output:
 The predicted rental price is displayed on the screen with a success message.
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
+
 The project leverages the following technologies:
 
 Python: The core programming language used for development.
