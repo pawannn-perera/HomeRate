@@ -41,7 +41,7 @@ Uses the pre-trained model to predict the monthly rental price based on input de
 Output:
 The predicted rental price is displayed on the screen with a success message.
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 The project leverages the following technologies:
 
