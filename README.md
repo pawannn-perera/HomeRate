@@ -22,7 +22,7 @@ The machine learning model estimates the rental price using the above features, 
 ## 🚀 How It Works
 
 ### Data Loading and Model Preparation:
--The pre-trained model, stored as best_model.pkl, is loaded using joblib.
+- The pre-trained model, stored as best_model.pkl, is loaded using joblib.
 
 ### User Input:
 - Users enter details about the house they wish to evaluate, including:
@@ -32,11 +32,8 @@ The machine learning model estimates the rental price using the above features, 
 - House Size: Square footage of the house.
 - Land Size: Land size in perches.
 
-Prediction:
-When the "Predict" button is clicked, the application:
-Verifies if all inputs are provided correctly.
-Creates a DataFrame with the inputs.
-Uses the pre-trained model to predict the monthly rental price based on input details.
+### Prediction:
+When the "Predict" button is clicked, the application first verifies that all inputs are provided correctly. It then creates a DataFrame using the entered details and feeds this data into the pre-trained model. The model processes the input information to predict the monthly rental price based on the provided details.
 
 Output:
 The predicted rental price is displayed on the screen with a success message.
@@ -45,11 +42,11 @@ The predicted rental price is displayed on the screen with a success message.
 
 The project leverages the following technologies:
 
-Python: The core programming language used for development.
-Streamlit: A web application framework to create a user-friendly interface.
-pandas: For data manipulation and analysis.
-joblib: To save and load machine learning models.
-Scikit-Learn: The machine learning library used to train and serialize the rental price prediction model (not directly used in this script but in the model training process).
+- Python: The core programming language used for development.
+- Streamlit: A web application framework to create a user-friendly interface.
+- pandas: For data manipulation and analysis.
+- joblib: To save and load machine learning models.
+- Scikit-Learn: The machine learning library used to train and serialize the rental price prediction model (not directly used in this script but in the model training process).
 
 ## 👥 Contributors
 
