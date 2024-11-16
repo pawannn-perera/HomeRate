@@ -21,16 +21,16 @@ The machine learning model estimates the rental price using the above features, 
 
 ## 🚀 How It Works
 
-Data Loading and Model Preparation:
-The pre-trained model, stored as best_model.pkl, is loaded using joblib.
+### Data Loading and Model Preparation:
+-The pre-trained model, stored as best_model.pkl, is loaded using joblib.
 
-User Input:
-Users enter details about the house they wish to evaluate, including:
-District: Dropdown selection from a list of available districts.
-Number of Beds: The number of bedrooms.
-Number of Baths: The number of bathrooms.
-House Size: Square footage of the house.
-Land Size: Land size in perches.
+### User Input:
+- Users enter details about the house they wish to evaluate, including:
+- District: Dropdown selection from a list of available districts.
+- Number of Beds: The number of bedrooms.
+- Number of Baths: The number of bathrooms.
+- House Size: Square footage of the house.
+- Land Size: Land size in perches.
 
 Prediction:
 When the "Predict" button is clicked, the application:
