@@ -35,7 +35,7 @@ The machine learning model estimates the rental price using the above features, 
 ### Prediction:
 When the "Predict" button is clicked, the application first verifies that all inputs are provided correctly. It then creates a DataFrame using the entered details and feeds this data into the pre-trained model. The model processes the input information to predict the monthly rental price based on the provided details.
 
-Output:
+### Output:
 The predicted rental price is displayed on the screen with a success message.
 
 ## 🛠️ Technologies Used
