@@ -201,7 +201,7 @@ else:
 st.sidebar.markdown("---")
 st.sidebar.markdown("### Developed by:")
 st.sidebar.markdown("""
-- Gihan Pramod
+- Gihan Pramods
 - Janaka Nupehewage
 - Kavishka Jayasinghe
 - Pawan Perera
