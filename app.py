@@ -133,7 +133,7 @@ st.sidebar.title("Menu")
 app_mode = st.sidebar.selectbox("Choose the app mode", ["Home", "About"])
 
 # Sidebar image
-st.sidebar.image("logo.jpg", use_column_width=True)
+st.sidebar.image("logo.jpg", use_container_width=True)  # Updated parameter
 
 # About Page
 if app_mode == "About":
@@ -201,7 +201,7 @@ else:
 st.sidebar.markdown("---")
 st.sidebar.markdown("### Developed by:")
 st.sidebar.markdown("""
-- Gihan Pramods
+- Gihan Pramod
 - Janaka Nupehewage
 - Kavishka Jayasinghe
 - Pawan Perera
