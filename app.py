@@ -202,9 +202,9 @@ else:
 st.sidebar.markdown("---")
 st.sidebar.markdown("### Developed by:")
 st.sidebar.markdown("""
+- Pawan Perera
 - Gihan Pramod
 - Janaka Nupehewage
 - Kavishka Jayasinghe
-- Pawan Perera
 - Pasindu Malshan
 """)
