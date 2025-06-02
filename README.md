@@ -66,6 +66,13 @@ This project was developed with the support and collaboration of:
         <img src="https://github.com/gihanpramod.png" width="100px;" alt="Gihan Pramod"/>
         <br />
         <sub><b>Gihan Pramod</b></sub>
+      </a>
+    <td align="center">
+      <a href="https://github.com/pasindumsenadheera">
+        <img src="https://github.com/pasindumsenadheera.png" width="100px;" alt="Pasindu Senadheera"/>
+        <br />
+        <sub><b>Pasindu Senadheera</b></sub>
+      </a>
   </tr>
 </table>
 A big thank you to everyone for their hard work and contributions!
